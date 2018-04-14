@@ -6,6 +6,7 @@
 
   .container img{
     margin-top: 25px;
+    max-height: 200px;
   }
 
   .conteudoCabecalho {
